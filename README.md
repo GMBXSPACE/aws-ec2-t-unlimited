@@ -1,3 +1,4 @@
+https://creativecommons.org/publicdomain/zero/1.0/
 # aws-ec2-t-unlimited
 
 ### What is it?
